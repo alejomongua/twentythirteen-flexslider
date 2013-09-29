@@ -3122,6 +3122,5 @@ footer.entry-meta {
 	display:none;
 	visibility: hidden;
 }
-.flexslider{
-	overflow-x: hidden;	
-}
+.flexslider{overflow:hidden;padding-bottom:30px;margin-bottom:0}
+.flex-control-nav{bottom:-10px;background:#fff;padding:12px 0}
