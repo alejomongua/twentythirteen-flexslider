@@ -44,13 +44,13 @@
 			<div class="flexslider">
 				<ul class="slides">
 					<li>
-						<img src="<?php echo get_template_directory_uri() . '/flexslider/green-truck.jpg';?>">
+						<img src="<?php echo get_template_directory_uri() . '/flexslider/kenworth_t800.jpg';?>">
 					</li>
 					<li>
-						<img class="hidden" src="<?php echo get_template_directory_uri() . '/flexslider/white-truck.jpg';?>">
+						<img class="hidden" src="<?php echo get_template_directory_uri() . '/flexslider/chevrolet_fvr_forward.jpg';?>">
 					</li>
 					<li>
-						<img class="hidden" src="<?php echo get_template_directory_uri() . '/flexslider/parts.jpg';?>">
+						<img class="hidden" src="<?php echo get_template_directory_uri() . '/flexslider/chevrolet-npr-reward_1.jpg';?>">
 					</li>
 				</ul>
 			</div>
